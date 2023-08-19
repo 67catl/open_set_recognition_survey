@@ -44,5 +44,5 @@
 
 - G-OpenMax(Generative openmax for multi-class open-set classification)(CVPR 2017)
 - OSRCI(Open set learning with counterfactual images)(ECCV 2018)
-- DIAS(Difficulty-aware simulator for open set recognition)(ECCV 2022)[CODE](https://github.com/wjun0830/difficulty-aware-simulator)(torch)
-- PROSER(Learning placeholders for open-set recognition)(CVPR 2021)[CODE](https://github.com/zhoudw-zdw/CVPR21-Proser)(torch)
+- DIAS(Difficulty-aware simulator for open set recognition)(ECCV 2022)[[CODE](https://github.com/wjun0830/difficulty-aware-simulator)](torch)
+- PROSER(Learning placeholders for open-set recognition)(CVPR 2021)[[CODE](https://github.com/zhoudw-zdw/CVPR21-Proser)](torch)
