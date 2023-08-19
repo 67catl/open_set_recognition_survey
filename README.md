@@ -6,7 +6,7 @@
 
 基于置信度校正的开集识别算法：
 
-- ODIN(Enhancing the reliability of out-of-distribution image detection in neural networks)(ICLR 2018)[CODE](https://github.com/facebookresearch/odin)(torch)
+- ODIN(Enhancing the reliability of out-of-distribution image detection in neural networks)(ICLR 2018)[[CODE](https://github.com/facebookresearch/odin)](torch)
 - NMD(Neural mean discrepancy for efficient out-of-distribution detection)(CVPR 2022)
 - Energy(energy-based out-of-distribution detection)(NeurIPS 2020)[CODE](https://github.com/wetliu/energy_ood)(torch)
 - GEN(Gen: Pushing the limits of softmax-based out-of-distribution detection)(CVPR 2023)[CODE](https://github.com/xixiliu95/gen)(torch)
