@@ -1,4 +1,4 @@
-# 基于深度学习的开集识别研究
+# 基于深度学习的开放集识别研究
 
 # papers
 
@@ -56,3 +56,7 @@
 - ConOSR(Contrastive open set recognition)(AAAI 2023)
 - OpenMix+(OpenMix+: revisiting data augmentation for open set recognition)(IEEE 2023)
 - IT-OSR(Conditional feature generation for transductive open-set recognition via dual-space consistent sampling)(Pattern Recognition 2024)
+
+# results
+
+我们对上述基于深度学习的开放集识别方法的分类效果进行了横向对比，效果表现结果汇总表格位于：doc/open-set recognition experiments.xlsx中
