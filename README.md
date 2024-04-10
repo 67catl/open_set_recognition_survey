@@ -59,4 +59,6 @@
 
 # experiments
 
-我们对上述基于深度学习的开放集识别方法的分类效果进行了横向对比，效果表现结果汇总表格位于：doc/open-set recognition experiments.xlsx中
+我们对上述基于深度学习的开放集识别方法的分类效果进行了横向对比，效果表现结果汇总表格:
+【腾讯文档】open-set recognition experiments
+https://docs.qq.com/sheet/DTmxMWm1GVktTRFp3?tab=000001
